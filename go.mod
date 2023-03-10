@@ -1,3 +1,3 @@
-module go-starter
+module go-swim
 
 go 1.19
